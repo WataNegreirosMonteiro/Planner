@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.task-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 10px auto;
+    padding: 12px;
+    width: 80%;
+    background-color: #0369A1;
+    border-radius: 5px;
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+}
+
+.task-title {
+    color: #F0F9FF;
+}
+
+.task-date {
+    padding: 6px;
+    margin: auto 0;
+    color: #F0F9FF;
+    background-color: #0284C7;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+}
+
