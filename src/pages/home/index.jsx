@@ -15,9 +15,7 @@ export default function Home(){
         />
 
         <div className="add-task-container">
-
             <input className="add-task-input" type="text" placeholder="Adicionar..." />
-
             < Plus className="add-task-icon" weight="bold" color="#0284C7"/>
         </div>
 
